@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "10-challenge-team-profile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeramySena/10-challenge-team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeramySena/10-challenge-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/JeramySena/10-challenge-team-profile-generator#readme"
+}
